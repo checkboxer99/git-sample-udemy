@@ -2,4 +2,8 @@ gitブランチのpracticeにファイルを追加したよ
 
 git hub のプルリクを確認中
 
+<<<<<<< HEAD
 localのまーじを確認中
+=======
+git pullの確認のためサーバー側を直接編集したよ
+>>>>>>> 686bd8a5a8f3feff0834228baccd451da1bc3e36
